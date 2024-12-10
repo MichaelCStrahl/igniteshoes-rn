@@ -34,6 +34,7 @@ export default function App() {
           break;
         default:
           console.log('Nenhum botão');
+          break;
       }
     }
 
